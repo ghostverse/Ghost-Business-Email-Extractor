@@ -32,9 +32,6 @@ This script is designed for extracting business emails from various input source
 9. **Free Email Domain Filtering:**
    - The script uses a predefined list of free email domains (e.g., Gmail, Yahoo, Outlook) to filter out non-business emails.
 
-10. **Version Check:**
-    - The main script is conditionally executed only when the script is directly run (not imported as a module).
-
 ### How to Use:
 
 1. Run the script.
